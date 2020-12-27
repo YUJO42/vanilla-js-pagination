@@ -1,0 +1,29 @@
+{
+  "name": "vanilla-js-pagination",
+  "version": "0.1.0-beta.1",
+  "description": "Pagenation Package with Vanilla JavaScript",
+  "main": "dist/vanilla-js-pagination.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YUJO42/vanilla-js-pagination.git"
+  },
+  "keywords": [
+    "vanilla",
+    "page",
+    "paginate",
+    "pagination"
+  ],
+  "author": {
+    "name": "Yunho Jo",
+    "email": "bedro27@gmail.com",
+    "url": "https://github.com/yujo42"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YUJO42/vanilla-js-pagination/issues"
+  },
+  "homepage": "https://github.com/YUJO42/vanilla-js-pagination#readme"
+}
